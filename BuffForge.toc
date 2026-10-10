@@ -1,0 +1,10 @@
+## Interface: 30300
+## Title: BuffForge
+## Notes: Compact class-aware self-buff bar for Wrath of the Lich King 3.3.5a
+## Author: BuffForge Project
+## Version: 0.1.0
+## SavedVariables: BuffForgeDB
+Core.lua
+Assignments.lua
+Bar.lua
+Config.lua
